@@ -93,6 +93,7 @@
 ## Demo and Media
 
 - **Circuit Diagram** – [`circuit_diagram.png`](Media/circuit_diagram.png)
+- **3D Case STL Files** – [`3D_models/`](Media/3D_models)
 
 
   
