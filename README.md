@@ -92,5 +92,7 @@
 
 ## Demo and Media
 
+- **Circuit Diagram** – [`circuit_diagram.png`](Media/circuit_diagram.png)
+
 
   
