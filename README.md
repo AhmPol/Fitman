@@ -1,6 +1,6 @@
 # Fitman™ – AI-Controlled Arduino Runner Game
 
-![Fitman Logo](Media/photos/logo.png) <!-- Optional -->
+![Fitman Logo](Media/photos/fitmanlogo.png) <!-- Optional -->
 
 ## 🕹️ Overview
 **Fitman™** is a side-scroller runner game created using the Arduino UNO R4 and a 16x2 LCD. The player is controlled using AI that interprets body poses — jumping when the player stands and running while crouched. It combines embedded electronics, custom LCD graphics, and machine learning for human interaction.
