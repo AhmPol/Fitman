@@ -87,7 +87,11 @@
 ## Project Files
 
 - **Final Presentation (Interactive)** – [View on Genially](https://view.genially.com/6846401c180c2c8579636b23/presentation-fitman)
-- **3D Case STL Files** – [`3D_models/`](Media/3D_models)
+- **Instructable Document (DOCX)** – [`Fitman_Instructable_Guide.docx`](Docs/Fitman™.docx)
+- **Arduino Code** – [`fitman_game.ino`](Arduino_Code/fitman_game.ino)
+- **Trained AI Model** – [`Teachable Machine Links`](AI_Model/pose_model_teachable_machine_links.txt)
+- **Photos & Videos** – [`Media`](Media/)
+- **3D Case STL Files** – [`3D_Models`](Media/3D_models)
 
 ---
 
