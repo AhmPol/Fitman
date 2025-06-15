@@ -1,0 +1,43 @@
+# === General OS and Editor Junk ===
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.tmp
+*.bak
+
+# === IDE/Editor Configurations ===
+.vscode/
+.idea/
+
+# === Logs and Cache ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Arduino ===
+*.hex
+*.elf
+
+# === AI Model (optional model exports from Teachable Machine) ===
+AI_Model/model_files/
+
+# === Media Files (optional, untrack if large or unnecessary) ===
+Media/gameplay_demo.mp4
+Media/photos/
+Media/3D_models/
+
+# === Office Temporary/Backup Files ===
+*.docx~
+*.pdf~
+
+# === Python/Colab Temporary Files (if any AI scripts run in Colab or Jupyter) ===
+__pycache__/
+*.ipynb_checkpoints/
+
+# === Node.js (in case web interface uses npm tools) ===
+node_modules/
+
+# === Temporary Notes or Unused Files ===
+Notes/changelog_draft.txt
