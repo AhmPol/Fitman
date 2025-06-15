@@ -1,0 +1,19 @@
+Teachable Machine Pose Model Link:
+https://teachablemachine.withgoogle.com/models/pYTJMXSL2/
+
+Model Classes:
+- Jump
+- Run
+
+Exported:
+June 15, 2025
+
+Optional Downloaded Files:
+(Only needed if using local model hosting instead of a URL above)
+
+- model.json
+- metadata.json
+- weights.bin
+
+These files are placed inside:
+AI_Model/my_model/
