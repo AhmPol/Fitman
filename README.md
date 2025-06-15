@@ -81,3 +81,16 @@
 - More stable, readable game logic
 - High score saving logic (EEPROM)
 - Add difficulty levels & power-ups
+
+---
+
+## 🗂️ Project Files
+
+- **Final Presentation (Interactive)** – [View on Genially](https://view.genially.com/6846401c180c2c8579636b23/presentation-fitman)
+
+---
+
+## 📸 Demo and Media
+
+
+  
