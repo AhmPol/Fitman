@@ -87,13 +87,13 @@
 ## Project Files
 
 - **Final Presentation (Interactive)** – [View on Genially](https://view.genially.com/6846401c180c2c8579636b23/presentation-fitman)
+- **3D Case STL Files** – [`3D_models/`](Media/3D_models)
 
 ---
 
 ## Demo and Media
 
 - **Circuit Diagram** – [`circuit_diagram.png`](Media/circuit_diagram.png)
-- **3D Case STL Files** – [`3D_models/`](Media/3D_models)
 
 
   
