@@ -15,6 +15,11 @@
 - Breadboard
 - Jumper Wires
 - Laptop (for programming and running AI input system)
+- USB Cable (Type B)
+- AI input system (pose recognition via external device or PC)
+- External power supply (optional)
+- 3D-printed enclosure (optional)
+
 
 ---
 
