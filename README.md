@@ -1,4 +1,4 @@
-# Fitman™ – AI-Controlled Arduino Runner Game
+  # Fitman™ – AI-Controlled Arduino Runner Game
 
 <p align="center">
   <img src="Media/photos/fitmanlogo.png" alt="Fitman Logo" width="200" height="200" />
@@ -92,7 +92,7 @@
 ## Project Files
 
 - **Final Presentation (Interactive)** – [View on Genially](https://view.genially.com/6846401c180c2c8579636b23/presentation-fitman)
-- **Instructable Document (DOCX)** – [Fitman Instructable Guide](Docs/Fitman™.docx)
+- **Instructable Document (PDF)** – [Fitman Instructable Guide](Docs/Fitman™.pdf)
 - **Arduino Code** – [Fitman Game INO Code](Arduino_Code/fitman_game.ino)
 - **Trained AI Model** – [Teachable Machine Links](Arduino_Model/pose_model_teachable_machine_links.txt)
 - **Photos & Videos** – [Photos & Videos](Media/photos)
