@@ -102,7 +102,7 @@
 
 ## Demo and Media
 
-- **Circuit Diagram** – [Circuit Diagram](Media/circuit_diagram.png)
+- **Circuit Diagram** – [Circuit Diagram](Media/photos/circuit_diagram.png)
 
 
   
